@@ -16,7 +16,7 @@ a {
     color: unset;
     text-decoration: none;
 }
-h1,p {
+h1, h2, p {
     margin: 0;
 }
 .container {
